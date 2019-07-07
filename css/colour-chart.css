@@ -108,7 +108,7 @@ button {
 
 .colour-tile {
   position: relative;
-  background: url("/images/texture10.png");
+  background: url("/colour-chart/images/texture10.png");
   background-size: cover;
   height: 0;
   /* padding: 3px 3px 0px 4px; */
