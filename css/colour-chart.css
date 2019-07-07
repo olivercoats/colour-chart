@@ -8,6 +8,7 @@ body {
   background-image: radial-gradient(#1a3d5a, #0c1f2f);
   background-attachment: fixed;
   color: white;
+  
 }
 
 body.lightbg {
