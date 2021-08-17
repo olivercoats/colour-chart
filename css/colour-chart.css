@@ -82,6 +82,7 @@ button {
 
 .colour-chart-wrap {
   margin: 0px -3px 60px -3px;
+  white-space: nowrap;
 }
 
 .colour-chart {
