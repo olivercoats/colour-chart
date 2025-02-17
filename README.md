@@ -7,6 +7,6 @@ The aim is to add interactivity that will allow side by side colour comparison o
 
 There is currently a rudimentary button set at the bottom of the chart which will switch between light and dark backgrounds. I fully expected the light background to suit the dark colour tiles, but what I've found is the opposite. It produces too much glare to be able to distiguish the subtle differences in the dark colour sets. Paradoxically, it turns out that the light background better suits the light colours tiles.
 
-Typically, in print, the best background is white, as the colours stand out the most. Web design is a diferent animal.
+Typically, in print, the best background is white, as the colours stand out the most, but for screens, the opposite is true.
 
 https://olivercoats.github.io/colour-chart/
